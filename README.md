@@ -50,3 +50,7 @@ Note: Ensure that you have the required ROS2 packages installed and sourced befo
 - OpenCV
 - https://github.com/piyush-g0enka/enpm809Y_fall2023/tree/rwa3
 
+## Authors
+
+1. Piyush Goenka
+2. Hoang Pham
