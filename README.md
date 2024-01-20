@@ -44,13 +44,8 @@ Note: Ensure that you have the required ROS2 packages installed and sourced befo
 
 ## Dependencies
 
-- ROS2 (Foxy Fitzroy)
+- ROS2 (Galactic)
 - Turtlebot3 Packages
 - OpenCV
-- mage_msgs
+- [Custom Packages](https://github.com/piyush-g0enka/enpm809Y_fall2023/tree/rwa3)https://github.com/piyush-g0enka/enpm809Y_fall2023/tree/rwa3
 
-## Author
-
-[Your Name]
-
-Feel free to customize this README based on additional project details or specific configurations.
