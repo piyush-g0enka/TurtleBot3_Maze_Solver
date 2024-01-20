@@ -47,7 +47,7 @@ Note: Ensure that you have the required ROS2 packages installed and sourced befo
 
 - ROS2 (Galactic)
 - Turtlebot3 Packages
-- OpenCV
+- OpenCV-contrib
 - https://github.com/piyush-g0enka/enpm809Y_fall2023/tree/rwa3
 
 ## Authors
